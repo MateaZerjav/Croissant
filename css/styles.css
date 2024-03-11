@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(249, 232, 166);
+}
+h1,
+p {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 10px;
+}
+footer {
+  text-align: center;
+  margin-top: 10px;
+}
+a {
+  color: rgb(248, 184, 46);
+}
+img {
+  max-width: 100%;
+  margin-top: 20px;
+  border-radius: 10px;
+}
